@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Exercice 16",
   description: "Par Marc-Antoine Jobin et Samuel Croteau",
-  base: '/appweb-exer16/',
+  base: '/repo/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
