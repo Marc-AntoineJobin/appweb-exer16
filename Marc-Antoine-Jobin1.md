@@ -10,7 +10,7 @@ Cette page est une revue de code documentée du TP1 de Marc-Antoine Jobin. Le co
 
 #### Le code est-il lisible, clair ou est-il trop complexe ?
 
-Le code est lisible et clair. Il est bien structuré quoi que mal découpé en fichiers mais utilise des noms de variables explicites. Les pratiques de programmations et les normes et standarts de programmations sont **majoritairement** respectés et le code est bien indenté *(voir exemple ci-bas)* et dans l'ensemble, le code est compréhensible. Le site est d'ailleurs assez beaux et agréable à utiliser.
+Le code est lisible et clair. Il est bien structuré quoi que mal découpé en fichiers mais utilise des noms de variables explicites. Les pratiques de programmations et les normes et standarts de programmations sont **majoritairement** respectés et le code est bien indenté *(voir exemple ci-bas)* et dans l'ensemble, le code est compréhensible. Le site est d'ailleurs assez beaux et agréable à utiliser.a 
 
 ```md
 const validateInfo = () => {
